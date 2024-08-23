@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on simple projects that help me gain experience.
 - 📫 How to reach me ajstone172@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I speak Spanish fluently, and I taught myself Brazilian Portuguese!
+- ⚡ Fun fact: I speak Spanish fluently!
 
 <!---
 ajstone172/ajstone172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
