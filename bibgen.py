@@ -1,3 +1,6 @@
+#This is the Bible Verse Generator!
+#It is a simple bot that returns a bible verse selected to encourage you based on your stated mood.
+
 print("Hello! How are you feeling? \n Happy - Sad - Angry")
 mood = input("Type here: ")
 
